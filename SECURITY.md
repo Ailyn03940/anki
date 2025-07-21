@@ -25,3 +25,4 @@ AnkiWeb hosts its study and editing interface on a separate ankiuser.net domain,
 so that malicious Javascript on cards can not trigger endpoints hosted on the
 main site. If you've found that not to be the case, or found an instance of JS
 not being filtered on the main site, please let us know.
+control + shift + m tab esc tab
